@@ -20,11 +20,11 @@ BEGIN
     BEGIN
         BLOCK "040904E4"
         BEGIN
-            VALUE "CompanyName", "Datanoise UG"
+            VALUE "CompanyName", "DatanoiseTV"
             VALUE "FileDescription", "Spice FX - Analog Saturation Plugin"
             VALUE "FileVersion", "1.0.0.0"
             VALUE "InternalName", "Spice FX"
-            VALUE "LegalCopyright", "Copyright (C) 2024 Datanoise UG"
+            VALUE "LegalCopyright", "Copyright (C) 2024 DatanoiseTV"
             VALUE "OriginalFilename", "Spice FX.exe"
             VALUE "ProductName", "Spice FX"
             VALUE "ProductVersion", "1.0.0.0"

@@ -19,7 +19,7 @@ endif()
 if(CMAKE_SYSTEM_NAME STREQUAL "iOS")
     # iOS specific plugin configuration
     juce_add_plugin(Spice
-        COMPANY_NAME "Datanoise UG"
+        COMPANY_NAME "DatanoiseTV"
         BUNDLE_ID "com.datanoise.spicefx"
         IS_SYNTH FALSE
         NEEDS_MIDI_INPUT FALSE
@@ -39,7 +39,7 @@ if(CMAKE_SYSTEM_NAME STREQUAL "iOS")
 elseif(WIN32)
     # On Windows, use Windows icon file
     juce_add_plugin(Spice
-        COMPANY_NAME "Datanoise UG"
+        COMPANY_NAME "DatanoiseTV"
         BUNDLE_ID "com.datanoise.spicefx"
         IS_SYNTH FALSE
         NEEDS_MIDI_INPUT FALSE
@@ -59,7 +59,7 @@ elseif(WIN32)
         ICON_SMALL "${CMAKE_CURRENT_SOURCE_DIR}/Resources/Icon.ico")
 else()
     juce_add_plugin(Spice
-        COMPANY_NAME "Datanoise UG"
+        COMPANY_NAME "DatanoiseTV"
         BUNDLE_ID "com.datanoise.spicefx"
         IS_SYNTH FALSE
         NEEDS_MIDI_INPUT FALSE
