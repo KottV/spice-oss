@@ -3,6 +3,10 @@
 A high-quality analog saturation VST3/AU/LV2 plugin with multiple distortion models.
 Open sourced in October 2025.
 
+## Screenshot
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/df9af651-8074-40f8-a06e-bec7d7bbf3e9" />
+
 ## Features
 
 - Multiple analog saturation models:
